@@ -1,0 +1,3 @@
+sta es la primera fila del fichero.
+Esta sera la segunda fila
+ este es un texto incluido
